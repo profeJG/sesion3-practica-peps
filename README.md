@@ -1,2 +1,5 @@
-# sesion3-practica-peps
-Repositorio para la práctica de los alumnos Tarea 5.1. Control de Versiones con Git.
+# Uso de GitHub en la práctica docente
+## Práctica 3.2
+Repositorio de prácticas para la sesión 3 del curso
+
+Incluye a continuación tu nombre y apellidos:
